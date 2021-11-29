@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: DEDOSTAR
-  site_tagline: Five V Fingers make the Star
-  favicon_image: /images/favicon.png
+  site_title: Python for Stock
+  site_tagline: Python for Stock
+  favicon_image: /Python4Stock/images/favicon.png
 
 header_settings:
   logo_image: 
