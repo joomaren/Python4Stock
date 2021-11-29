@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Python for Stock
+  site_title: Joomaren - Python4Stock
   site_tagline: Python for Stock
   favicon_image: /Python4Stock/images/favicon.png
 
@@ -16,9 +16,8 @@ menu_settings:
       url: '/Python4Stock/projects/'
     - title: 'About'
       url: '/Python4Stock/about'
-    - title: '1) Python 개발 준비'
+    - title: '1) 개발환경 준비하기'
       url: '/Python4Stock/prepare'
-      
 grid_settings:
   grid_spacing: 10
 
