@@ -11,22 +11,16 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Latest'
-      url: '/'
+      url: '/Python4Stock/'
     - title: 'Projects'
-      url: '/projects/'
+      url: '/Python4Stock/projects/'
     - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
-
+      url: '/Python4Stock/about'
+    - title: '1) Python 개발 준비'
+      url: '/Python4Stock/prepare'
+      
 grid_settings:
   grid_spacing: 10
-
-contact_settings:
-  form_action: 'https://formspree.io/momscoding@email.com'
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: 'https://www.facebook.com/momscoding'
