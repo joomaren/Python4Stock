@@ -18,6 +18,14 @@ menu_settings:
       url: '/Python4Stock/about'
     - title: '1) 개발환경 준비하기'
       url: '/Python4Stock/prepare'
+    - title: '2) 주식정보 가져오기'
+      url: '/Python4Stock/prepare'
+    - title: '3) 매일 커피한잔으로'
+      url: '/Python4Stock/prepare'
+    - title: '4) 재미있는 투자'
+      url: '/Python4Stock/prepare'
+    - title: '5) 12%를 향해'
+      url: '/Python4Stock/prepare'
 grid_settings:
   grid_spacing: 10
 
