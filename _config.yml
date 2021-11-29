@@ -1,11 +1,11 @@
 
 
-title : DEDOSTAR BLOG
+title : Python Coding for Stock
 email : momscoding@gmail.com
-description: Five Fingers makes a beautiful star. 
+description: The Canterbury Tales 
 
-site: Dedostar Blog
-url : 'http://www.dedostar.com'
+site: Python for Stock
+url : 'http://www.joomaren.com'
 timezone: Asia/Seoul 
 collections:
   pages:
