@@ -1,9 +1,7 @@
-
 ---
 title: 파이썬 환경 준비
 subtitle: joomaren 
 description: Back to the future
-featured_image:  
 ---
 
 ### Pandas Library를 이용하여 원하는 기간의 주식 정보를 가져오는 방법
