@@ -11,7 +11,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: '0 - Python4Sotck 시작하며'
-      url: '/Python4Stock/00start'
+      url: '/Python4Stock/start'
     - title: '1 - 주식관련 정보 가져오기'
       url: '/Python4Stock/1_getdata'
     - title: '2 - 나만의 주식 분석'
