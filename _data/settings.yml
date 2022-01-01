@@ -10,22 +10,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
-      url: '/Python4Stock/'
-    - title: 'Projects'
-      url: '/Python4Stock/projects/'
-    - title: 'About'
-      url: '/Python4Stock/about'
-    - title: '1) 개발환경 준비하기'
-      url: '/Python4Stock/prepare'
-    - title: '2) 주식정보 가져오기'
-      url: '/Python4Stock/prepare'
-    - title: '3) 매일 커피한잔으로'
-      url: '/Python4Stock/prepare'
-    - title: '4) 재미있는 투자'
-      url: '/Python4Stock/prepare'
-    - title: '5) 12%를 향해'
-      url: '/Python4Stock/prepare'
+    - title: '0 - Python4Sotck 시작하며'
+      url: '/Python4Stock/0_start'
+    - title: '1 - 주식관련 정보 가져오기'
+      url: '/Python4Stock/1_getdata'
+    - title: '2 - 나만의 주식 분석'
+      url: '/Python4Stock/2_Stock_Aanlysis'
+    - title: '10 - 파이썬 기본지식'
+      url: '/Python4Stock/10_python_basic'
 grid_settings:
   grid_spacing: 10
 
@@ -47,7 +39,7 @@ social_settings:
   dribbble_url: ''
   behance_url: ''
   deviantart_url: ''
-  github_url: 'https://github.com/dedostar'
+  github_url: 'https://github.com/joomaren'
   reddit_url: ''
   flickr_url: ''
   etsy_url: ''
