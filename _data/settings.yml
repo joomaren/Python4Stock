@@ -13,7 +13,7 @@ menu_settings:
     - title: '0 - Python4Sotck 시작하며'
       url: '/Python4Stock/start'
     - title: '1 - 주식관련 정보 가져오기'
-      url: '/Python4Stock/1_getdata'
+      url: '/Python4Stock/getdata'
     - title: '2 - 나만의 주식 분석'
       url: '/Python4Stock/2_Stock_Aanlysis'
     - title: '10 - 파이썬 기본지식'

@@ -5,7 +5,7 @@ description: Python Coding for Stock Simulation
 featured_image:  https://dedostar.github.io/images/about/finger_star.jpg
 ---
 
-## 과거가 미래를 지배한다. 
+### 과거가 미래를 지배한다. 
 
  사람들은 항상 과거를 후회하고 사는 것 같다. 과거의 선택에 항상 후회하면서도 미래를 두려워하여 아무 것도 실행하지 않는 것 같다.
  특히 주식에서는 더 그런 것 같다. 지난 과거를 후회하기 보다는 면밀히 분석하여 미래를 준비하는 것이 바랍직하지 않을까?
@@ -15,7 +15,7 @@ featured_image:  https://dedostar.github.io/images/about/finger_star.jpg
  나는 Python4Stock 을 통해 우리가 생각할 수 있는 지속 가능한 투자 방법을 과거의 데이터로 simulation을 하면서
  미래에도 지속가능한 투자 방법을 찾아 보려고 한다.
 
-## Coding은 목적이 있어야 재미있다. 
+### Coding은 목적이 있어야 재미있다. 
 
  모든 사람에게 Coding 이란 것은 한번쯤 해보고 싶은 일이라 생각한다. 
  하지만 막상 하려고 하면 단계별로 배워야 할 것들이 많이 쉽사리 시작을 하지 못하는 사람이 많다고 생각한다.
@@ -23,7 +23,7 @@ featured_image:  https://dedostar.github.io/images/about/finger_star.jpg
  요즘의 Coding 환경은 많은 발전을 이루어서 프로그래밍 언어를 모르고도 대화 형태로 Coding을 할 수 있는 단계까지 발전을 하고 있다.
  그러므로 Coding 방법은 다양하게 발전을 할 것이지만 원하는 목적은 변하지 않으므로 목적을 가지는 것이 중요하다 생각읗 한다.
 
-## 나는 파이썬으로 주식을 시물레이션한다.
+### 나는 파이썬으로 주식을 시물레이션한다.
 
  나는 파이썬을 주식을 분석하는 도구로 사용하여 Coding을 목적으로 Coding을 배우는 과정을 만들어 보려고 한다.
  Coding 경험이 없어도 주식 분석에 필요한 것들만 이해하야 원하는 목적을 얻을 수 있다면 모든 사람들은 
