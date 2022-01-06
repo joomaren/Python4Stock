@@ -2,7 +2,7 @@
 title: 파이썬 환경 준비
 subtitle: joomaren 
 description: Back to the future
-featured_image:  https://dedostar.github.io/images/about/finger_star.jpg
+featured_image:  https://joomaren.github.io/images/about/finger_star.jpg
 ---
 
 ## Python Library 를 이용하기 
@@ -33,7 +33,7 @@ print(dataf)
 ```
 ## 결과
 
-![](/images/getdata_result.PNG)
+![]( https://joomaren.github.io/Python4Stock/images/getdata_result.PNG)
 
 <code>Datetime library와 Pandas Datareader Library 를 data란 이름으로 import</code>   
     
