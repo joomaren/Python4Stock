@@ -1,7 +1,7 @@
 ---
-title: 파이썬 환경 준비
+title: 주식정보 가져오기
 subtitle: joomaren 
-description: Back to the future
+description: Get the stock history data 
 featured_image:  https://joomaren.github.io/images/about/finger_star.jpg
 ---
 
