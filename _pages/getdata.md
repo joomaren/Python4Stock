@@ -33,7 +33,7 @@ print(dataf)
 ```
 ## 결과
 
-![]( https://joomaren.github.io/Python4Stock/images/getdata_result.PNG)
+![]( https://joomaren.github.io/Python4Stock/images/getdataresult.PNG)
 
 <code>Datetime library와 Pandas Datareader Library 를 data란 이름으로 import</code>   
     
