@@ -31,6 +31,10 @@ dataf = data.DataReader('005930', 'naver', start, end)
 print('Read Stock[005930] History')
 print(dataf)
 ```
+## 결과
+
+![](/images/getdata_result.PNG)
+
 <code>Datetime library와 Pandas Datareader Library 를 data란 이름으로 import</code>   
     
 ```
